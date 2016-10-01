@@ -1,0 +1,27 @@
+h1{color:white}
+h1{font-family: sans-serif;verdana}
+h1{font-size: 45px}
+body{background-color: #235C81}
+body{font-family: "Times New Roman", Georgia, Serif;}
+footer{background-color: #A354B0}
+
+/*unvisited link*/
+a:link{color: blue}
+
+/*visited link*/
+a:visited{color: blue}
+
+/*hover over link*/
+a:hover{color: blue}
+
+/*unordered list type*/
+ul{list-style-type: square}
+
+nav{background-color: white}
+nav{font-size: 20px}
+nav{font-weight: bold;}
+
+/*definition list*/
+dt{font-weight: bold}
+dt{text-decoration: underline;}
+
